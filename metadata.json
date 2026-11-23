@@ -1,0 +1,8 @@
+{
+  "name": "SLAVE — Discord Security & Moderation",
+  "description": "Security-first Discord moderation bot and real-time server management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
